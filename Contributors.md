@@ -23,5 +23,6 @@
 |     Arsh Manva     |  hidekiriyuga   |            shinchan pattern            |     arshmanva21@gmail.com     |
 |  Muhammad Bhaska   |    mhmdbhsk     |      Simple Fractions Arithmatic       |   muhammadbhaska0@gmail.com   |
 | Siddartha Aggarwal |     Mammoth     |                mammoth                 | siddarthaaggarwal42@gmail.com |
-| Junianto Endra   |     J3ndra      |          Python GUI Text Editor        |  junianto.endra.21@gmail.com  |
+| Junianto Endra   |     J3ndra        |          Python GUI Text Editor        |  junianto.endra.21@gmail.com  |
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
+|   Akshat Surana    |  suranaakshat02 |            Zig-Zag Pattern             |    suranaakshat02@gmail.com   |
